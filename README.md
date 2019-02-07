@@ -21,7 +21,7 @@ in the Julia REPL.
 ### Problem Statement
 Setup and solve ordinary differential equations for the following reaction
 
-![alt text](https://github.com/mvilkhov/ODE-Example/blob/master/ODE_example.pdf)
+![ODE_example](ODE_example.pdf)
 
 
 
